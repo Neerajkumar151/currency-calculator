@@ -19,9 +19,7 @@ A simple and responsive **Currency Converter** built using **HTML**, **CSS**, an
 
 ## 🌐 Live Demo
 
-🔗 [Try it live on GitHub Pages](https://yourusername.github.io/your-repo-name)
-
-> Replace the link above with your actual GitHub Pages URL after deployment.
+🔗 <a href="https://neerajkumar151.github.io/currency-calculator/">Try Now<a/>
 
 ---
 
