@@ -68,44 +68,43 @@ cd currency-converter
 
 ---
 
-🌍 Deployment
-This project is hosted on GitHub Pages
+## 🌍 Deployment
+
+This project is hosted on **GitHub Pages**  
 🔗 [Click to Visit](https://neerajkumar151.github.io/currency-calculator/)
 
 ---
 
-🔮 Future Plans
-Add historical exchange rate graph
+## 🔮 Future Plans
 
-Add currency flags and better UI/UX
-
-Implement auto-suggestions for currency codes
-
-Deploy a backend version with authentication & conversion history
+- Add historical exchange rate graph  
+- Add currency flags and better UI/UX  
+- Implement auto-suggestions for currency codes  
+- Deploy a backend version with authentication & conversion history
 
 ---
 
-🙋‍♂️ About Me
-Neeraj Kumar
-🎓 Final Year B.Tech IT Student
-🏫 GL Bajaj Institute of Technology & Management, Greater Noida
+## 🙋‍♂️ About Me
+
+**Neeraj Kumar**  
+🎓 Final Year B.Tech IT Student  
+🏫 GL Bajaj Institute of Technology & Management, Greater Noida  
 🌐 [GitHub Profile](https://github.com/Neerajkumar151)
 
 ---
 
-⭐ Show Some Love
+## ⭐ Show Some Love
+
 If you like this project:
 
-⭐ Star the repo
-
-📌 Share it
-
-📥 Fork it
-
-💡 Contribute your ideas
+- ⭐ Star the repo  
+- 📌 Share it  
+- 📥 Fork it  
+- 💡 Contribute your ideas  
 
 ---
 
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
